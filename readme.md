@@ -1,0 +1,1 @@
+registers a custom post type called "pet" and adds support for the title, editor, and custom fields. It also includes a filter that checks if the current page is the "pet-adoption" page and returns a custom template file if it is.
